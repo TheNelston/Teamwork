@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDID</key>
+	<string>75B047AD-E8CF-4DAE-A45C-EB66B65603EC</string>
+	<key>deviceType</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p</string>
+	<key>name</key>
+	<string>Apple TV 4K (at 1080p)</string>
+	<key>runtime</key>
+	<string>com.apple.CoreSimulator.SimRuntime.tvOS-11-2</string>
+	<key>state</key>
+	<integer>1</integer>
+</dict>
+</plist>

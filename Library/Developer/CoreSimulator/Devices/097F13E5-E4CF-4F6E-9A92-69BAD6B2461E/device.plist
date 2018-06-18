@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDID</key>
+	<string>097F13E5-E4CF-4F6E-9A92-69BAD6B2461E</string>
+	<key>deviceType</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.iPad-Pro</string>
+	<key>name</key>
+	<string>iPad Pro (12.9-inch)</string>
+	<key>runtime</key>
+	<string>com.apple.CoreSimulator.SimRuntime.iOS-11-2</string>
+	<key>state</key>
+	<integer>1</integer>
+</dict>
+</plist>

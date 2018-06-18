@@ -1,0 +1,273 @@
+Jun 18 12:16:14 e1z2r8p11 CoreSimulatorService[28769] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 494.33 starting.
+Jun 18 12:16:16 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device A2A69927-457F-4341-BF34-9FA4C2950C2F encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:27 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 569F7097-3E7B-4818-921D-26B984210DE4 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:31 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 781A9995-A384-4412-A7D6-AD5D9B36E2F3 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:34 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device F62E0981-549C-47E7-85BE-74A06C135EE7 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:39 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 4499BD62-BC19-41D1-AFAD-059C26C93F3D encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:42 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 7F442B0D-DA0D-45EC-8F4F-6DF2C9992C21 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:45 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device F2E67179-F341-4493-A7E9-131111C2F8FF encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:48 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 0B9A0FC2-8C11-460E-8273-7969D0CFC916 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:51 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 16DB2A32-F8DD-4EF1-82D0-2434D262D6E0 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:54 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 9C68AD07-4228-4752-A4F2-90EE2B48EF19 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:16:57 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 6325860D-16FB-44E8-81E8-B32A6CEACE7E encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:00 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 61A41EF6-949D-4A08-8B07-959F89F2B004 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:06 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device B5EEB33B-0062-4DCE-9AFE-FD34798150B0 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:11 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 2BE4B0FB-E29A-49D3-A106-064DDA6C9798 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:16 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 097F13E5-E4CF-4F6E-9A92-69BAD6B2461E encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:29 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:36 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 546524A7-BBFB-4BA6-A88E-8773B9AC4C85 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:41 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device E1760330-36A0-412B-A6C0-5254C9DD4311 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:45 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device CD122B22-0020-4D7D-ACB9-8B3A7146C8D3 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:45 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 75B047AD-E8CF-4DAE-A45C-EB66B65603EC encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:45 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device C0BBDED4-C25E-479C-9A6F-79C59CF5DDE1 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 4820A338-F03D-41FC-A41C-0F2B2AF44FFD encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 86B525DE-72BB-4BE5-88CC-18D6C744EA05 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device A076CCE7-297A-4206-B293-9DBD79CB58A3 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 35D695F4-6A53-4904-8429-851D4334CABD encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device 3D422DD7-DA5C-48B3-9C20-604C4C105814 encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Warning>: Device E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC encountered in creation state at launch.  The device will be re-created.
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Error>: Error saving /nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist : Error Domain=NSCocoaErrorDomain Code=4 "The file “device_set.plist” doesn’t exist." UserInfo={NSFilePath=/nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist, NSUnderlyingError=0x600000054970 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}} from {
+	    DefaultDevices =     {
+	        "com.apple.CoreSimulator.SimRuntime.iOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-" = "8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air" = "61A41EF6-949D-4A08-8B07-959F89F2B004";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2" = "B5EEB33B-0062-4DCE-9AFE-FD34798150B0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro" = "097F13E5-E4CF-4F6E-9A92-69BAD6B2461E";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-" = "546524A7-BBFB-4BA6-A88E-8773B9AC4C85";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-" = "E1760330-36A0-412B-A6C0-5254C9DD4311";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" = "2BE4B0FB-E29A-49D3-A106-064DDA6C9798";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-5s" = "A2A69927-457F-4341-BF34-9FA4C2950C2F";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6" = "569F7097-3E7B-4818-921D-26B984210DE4";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus" = "781A9995-A384-4412-A7D6-AD5D9B36E2F3";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s" = "F62E0981-549C-47E7-85BE-74A06C135EE7";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus" = "4499BD62-BC19-41D1-AFAD-059C26C93F3D";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7" = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus" = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8" = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-SE" = "7F442B0D-DA0D-45EC-8F4F-6DF2C9992C21";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-X" = "6325860D-16FB-44E8-81E8-B32A6CEACE7E";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.tvOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" = "CD122B22-0020-4D7D-ACB9-8B3A7146C8D3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" = "75B047AD-E8CF-4DAE-A45C-EB66B65603EC";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" = "C0BBDED4-C25E-479C-9A6F-79C59CF5DDE1";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.watchOS-4-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm" = "4820A338-F03D-41FC-A41C-0F2B2AF44FFD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm" = "86B525DE-72BB-4BE5-88CC-18D6C744EA05";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm" = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm" = "35D695F4-6A53-4904-8429-851D4334CABD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm" = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm" = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        version = 0;
+	    };
+	    DevicePairs =     {
+	        "1C6DC925-38D2-4A56-A2EF-2875C743C90E" =         {
+	            active = 1;
+	            companion = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            gizmo = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	        };
+	        "4AC0D29F-E176-4CAA-A895-072385610C5A" =         {
+	            active = 1;
+	            companion = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            gizmo = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        "A41D8774-6185-47FD-91A2-48D669AC9153" =         {
+	            active = 1;
+	            companion = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            gizmo = "35D695F4-6A53-4904-8429-851D4334CABD";
+	        };
+	        "E549865C-841B-4844-A7CB-1FA764929953" =         {
+	            active = 1;
+	            companion = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            gizmo = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	        };
+	    };
+	    Version = 0;
+	}
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Error>: Error saving /nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist : Error Domain=NSCocoaErrorDomain Code=4 "The file “device_set.plist” doesn’t exist." UserInfo={NSFilePath=/nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist, NSUnderlyingError=0x60800004e940 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}} from {
+	    DefaultDevices =     {
+	        "com.apple.CoreSimulator.SimRuntime.iOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-" = "8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air" = "61A41EF6-949D-4A08-8B07-959F89F2B004";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2" = "B5EEB33B-0062-4DCE-9AFE-FD34798150B0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro" = "097F13E5-E4CF-4F6E-9A92-69BAD6B2461E";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-" = "546524A7-BBFB-4BA6-A88E-8773B9AC4C85";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-" = "E1760330-36A0-412B-A6C0-5254C9DD4311";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" = "2BE4B0FB-E29A-49D3-A106-064DDA6C9798";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-5s" = "A2A69927-457F-4341-BF34-9FA4C2950C2F";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6" = "569F7097-3E7B-4818-921D-26B984210DE4";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus" = "781A9995-A384-4412-A7D6-AD5D9B36E2F3";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s" = "F62E0981-549C-47E7-85BE-74A06C135EE7";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus" = "4499BD62-BC19-41D1-AFAD-059C26C93F3D";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7" = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus" = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8" = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-SE" = "7F442B0D-DA0D-45EC-8F4F-6DF2C9992C21";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-X" = "6325860D-16FB-44E8-81E8-B32A6CEACE7E";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.tvOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" = "CD122B22-0020-4D7D-ACB9-8B3A7146C8D3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" = "75B047AD-E8CF-4DAE-A45C-EB66B65603EC";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" = "C0BBDED4-C25E-479C-9A6F-79C59CF5DDE1";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.watchOS-4-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm" = "4820A338-F03D-41FC-A41C-0F2B2AF44FFD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm" = "86B525DE-72BB-4BE5-88CC-18D6C744EA05";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm" = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm" = "35D695F4-6A53-4904-8429-851D4334CABD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm" = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm" = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        version = 0;
+	    };
+	    DevicePairs =     {
+	        "1C6DC925-38D2-4A56-A2EF-2875C743C90E" =         {
+	            active = 1;
+	            companion = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            gizmo = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	        };
+	        "4AC0D29F-E176-4CAA-A895-072385610C5A" =         {
+	            active = 1;
+	            companion = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            gizmo = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        "A41D8774-6185-47FD-91A2-48D669AC9153" =         {
+	            active = 1;
+	            companion = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            gizmo = "35D695F4-6A53-4904-8429-851D4334CABD";
+	        };
+	        "E549865C-841B-4844-A7CB-1FA764929953" =         {
+	            active = 1;
+	            companion = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            gizmo = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	        };
+	    };
+	    Version = 0;
+	}
+Jun 18 12:17:46 e1z2r8p11 CoreSimulatorService[28769] <Error>: Error saving /nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist : Error Domain=NSCocoaErrorDomain Code=4 "The file “device_set.plist” doesn’t exist." UserInfo={NSFilePath=/nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist, NSUnderlyingError=0x60800004b2b0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}} from {
+	    DefaultDevices =     {
+	        "com.apple.CoreSimulator.SimRuntime.iOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-" = "8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air" = "61A41EF6-949D-4A08-8B07-959F89F2B004";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2" = "B5EEB33B-0062-4DCE-9AFE-FD34798150B0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro" = "097F13E5-E4CF-4F6E-9A92-69BAD6B2461E";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-" = "546524A7-BBFB-4BA6-A88E-8773B9AC4C85";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-" = "E1760330-36A0-412B-A6C0-5254C9DD4311";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" = "2BE4B0FB-E29A-49D3-A106-064DDA6C9798";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-5s" = "A2A69927-457F-4341-BF34-9FA4C2950C2F";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6" = "569F7097-3E7B-4818-921D-26B984210DE4";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus" = "781A9995-A384-4412-A7D6-AD5D9B36E2F3";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s" = "F62E0981-549C-47E7-85BE-74A06C135EE7";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus" = "4499BD62-BC19-41D1-AFAD-059C26C93F3D";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7" = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus" = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8" = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-SE" = "7F442B0D-DA0D-45EC-8F4F-6DF2C9992C21";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-X" = "6325860D-16FB-44E8-81E8-B32A6CEACE7E";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.tvOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" = "CD122B22-0020-4D7D-ACB9-8B3A7146C8D3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" = "75B047AD-E8CF-4DAE-A45C-EB66B65603EC";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" = "C0BBDED4-C25E-479C-9A6F-79C59CF5DDE1";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.watchOS-4-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm" = "4820A338-F03D-41FC-A41C-0F2B2AF44FFD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm" = "86B525DE-72BB-4BE5-88CC-18D6C744EA05";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm" = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm" = "35D695F4-6A53-4904-8429-851D4334CABD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm" = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm" = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        version = 0;
+	    };
+	    DevicePairs =     {
+	        "1C6DC925-38D2-4A56-A2EF-2875C743C90E" =         {
+	            active = 1;
+	            companion = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            gizmo = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	        };
+	        "4AC0D29F-E176-4CAA-A895-072385610C5A" =         {
+	            active = 1;
+	            companion = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            gizmo = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        "A41D8774-6185-47FD-91A2-48D669AC9153" =         {
+	            active = 1;
+	            companion = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            gizmo = "35D695F4-6A53-4904-8429-851D4334CABD";
+	        };
+	        "E549865C-841B-4844-A7CB-1FA764929953" =         {
+	            active = 1;
+	            companion = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            gizmo = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	        };
+	    };
+	    Version = 0;
+	}
+Jun 18 13:03:26 e1z2r8p11 CoreSimulatorService[1340] <Notice>: com.apple.CoreSimulator.CoreSimulatorService 494.33 starting.
+Jun 18 13:03:27 e1z2r8p11 CoreSimulatorService[1340] <Error>: Error saving /nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist : Error Domain=NSCocoaErrorDomain Code=4 "The file “device_set.plist” doesn’t exist." UserInfo={NSFilePath=/nfs/2017/a/ahall/Library/Developer/CoreSimulator/Devices/device_set.plist, NSUnderlyingError=0x600000054940 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}} from {
+	    DefaultDevices =     {
+	        "com.apple.CoreSimulator.SimRuntime.iOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-" = "8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air" = "61A41EF6-949D-4A08-8B07-959F89F2B004";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Air-2" = "B5EEB33B-0062-4DCE-9AFE-FD34798150B0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro" = "097F13E5-E4CF-4F6E-9A92-69BAD6B2461E";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--10-5-inch-" = "546524A7-BBFB-4BA6-A88E-8773B9AC4C85";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--12-9-inch---2nd-generation-" = "E1760330-36A0-412B-A6C0-5254C9DD4311";
+	            "com.apple.CoreSimulator.SimDeviceType.iPad-Pro--9-7-inch-" = "2BE4B0FB-E29A-49D3-A106-064DDA6C9798";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-5s" = "A2A69927-457F-4341-BF34-9FA4C2950C2F";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6" = "569F7097-3E7B-4818-921D-26B984210DE4";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6-Plus" = "781A9995-A384-4412-A7D6-AD5D9B36E2F3";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s" = "F62E0981-549C-47E7-85BE-74A06C135EE7";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-6s-Plus" = "4499BD62-BC19-41D1-AFAD-059C26C93F3D";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7" = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-7-Plus" = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8" = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-8-Plus" = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-SE" = "7F442B0D-DA0D-45EC-8F4F-6DF2C9992C21";
+	            "com.apple.CoreSimulator.SimDeviceType.iPhone-X" = "6325860D-16FB-44E8-81E8-B32A6CEACE7E";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.tvOS-11-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-1080p" = "CD122B22-0020-4D7D-ACB9-8B3A7146C8D3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-1080p" = "75B047AD-E8CF-4DAE-A45C-EB66B65603EC";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-TV-4K-4K" = "C0BBDED4-C25E-479C-9A6F-79C59CF5DDE1";
+	        };
+	        "com.apple.CoreSimulator.SimRuntime.watchOS-4-2" =         {
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-38mm" = "4820A338-F03D-41FC-A41C-0F2B2AF44FFD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-42mm" = "86B525DE-72BB-4BE5-88CC-18D6C744EA05";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-38mm" = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-2-42mm" = "35D695F4-6A53-4904-8429-851D4334CABD";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-38mm" = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	            "com.apple.CoreSimulator.SimDeviceType.Apple-Watch-Series-3-42mm" = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        version = 0;
+	    };
+	    DevicePairs =     {
+	        "1C6DC925-38D2-4A56-A2EF-2875C743C90E" =         {
+	            active = 1;
+	            companion = "16DB2A32-F8DD-4EF1-82D0-2434D262D6E0";
+	            gizmo = "3D422DD7-DA5C-48B3-9C20-604C4C105814";
+	        };
+	        "4AC0D29F-E176-4CAA-A895-072385610C5A" =         {
+	            active = 1;
+	            companion = "9C68AD07-4228-4752-A4F2-90EE2B48EF19";
+	            gizmo = "E95FAE58-F32C-42A8-BBF7-BBCDCDA35ECC";
+	        };
+	        "A41D8774-6185-47FD-91A2-48D669AC9153" =         {
+	            active = 1;
+	            companion = "0B9A0FC2-8C11-460E-8273-7969D0CFC916";
+	            gizmo = "35D695F4-6A53-4904-8429-851D4334CABD";
+	        };
+	        "E549865C-841B-4844-A7CB-1FA764929953" =         {
+	            active = 1;
+	            companion = "F2E67179-F341-4493-A7E9-131111C2F8FF";
+	            gizmo = "A076CCE7-297A-4206-B293-9DBD79CB58A3";
+	        };
+	    };
+	    Version = 0;
+	}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDID</key>
+	<string>B5EEB33B-0062-4DCE-9AFE-FD34798150B0</string>
+	<key>deviceType</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.iPad-Air-2</string>
+	<key>name</key>
+	<string>iPad Air 2</string>
+	<key>runtime</key>
+	<string>com.apple.CoreSimulator.SimRuntime.iOS-11-2</string>
+	<key>state</key>
+	<integer>1</integer>
+</dict>
+</plist>

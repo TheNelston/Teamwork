@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDID</key>
+	<string>8F786ED1-6DBA-4FE7-86F0-41BCAB8FB021</string>
+	<key>deviceType</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.iPad--5th-generation-</string>
+	<key>name</key>
+	<string>iPad (5th generation)</string>
+	<key>runtime</key>
+	<string>com.apple.CoreSimulator.SimRuntime.iOS-11-2</string>
+	<key>state</key>
+	<integer>1</integer>
+</dict>
+</plist>

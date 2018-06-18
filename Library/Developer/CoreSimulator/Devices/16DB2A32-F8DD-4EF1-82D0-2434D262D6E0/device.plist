@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UDID</key>
+	<string>16DB2A32-F8DD-4EF1-82D0-2434D262D6E0</string>
+	<key>deviceType</key>
+	<string>com.apple.CoreSimulator.SimDeviceType.iPhone-8</string>
+	<key>name</key>
+	<string>iPhone 8</string>
+	<key>runtime</key>
+	<string>com.apple.CoreSimulator.SimRuntime.iOS-11-2</string>
+	<key>state</key>
+	<integer>1</integer>
+</dict>
+</plist>
