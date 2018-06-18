@@ -99,7 +99,7 @@
 	<key>ConfigurationCreationVersion</key>
 	<string>Version 10.13.3 (Build 17D102)</string>
 	<key>ConfigurationModificationDate</key>
-	<date>2018-06-18T20:59:15Z</date>
+	<date>2018-06-18T21:35:42Z</date>
 	<key>ConfigurationModificationVersion</key>
 	<string>Version 10.13.3 (Build 17D102)</string>
 	<key>ConfigurationWriteback</key>
@@ -124,7 +124,7 @@
 			<key>PartialPath</key>
 			<string>/</string>
 			<key>PolicyDate</key>
-			<date>2018-06-18T20:59:15Z</date>
+			<date>2018-06-18T21:35:42Z</date>
 			<key>PolicyLevel</key>
 			<string>kMDConfigSearchLevelReadWrite</string>
 			<key>PolicyProcess</key>
